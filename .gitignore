@@ -1,0 +1,8 @@
+# Ignorar a pasta de build inteira
+build/
+
+# Ignorar arquivos temporários do sistema ou IDEs (opcional)
+.vscode/
+.DS_Store
+*.user
+git.sh
