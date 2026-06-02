@@ -1,6 +1,8 @@
 #include <iostream>
+#include <string>
+using namespace std;
 int main() {
-    std::cout << "Hello, world\n";
-    std::cin.ignore();
+    cout << "What is your name?";
+    cin.ignore();
     return 0;
 }
