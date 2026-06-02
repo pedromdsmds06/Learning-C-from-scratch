@@ -12,13 +12,13 @@ A scalable C++ repository structured with CMake and automated via Makefile.
 # preface
 ## Introduction
 
-Welcome to **Learning C from Scratch**! 
+Welcome to **Learning C++ from Scratch**! 
 
 This project was created with a clear mission: to provide a structured, high-quality, and completely free alternative to expensive programming courses. If you have zero experience in programming but want to understand how software works at a fundamental level, you are in the right place.
 
-### Why Learn C?
+### Why Learn C++?
 
-C is often called the "language of languages." It is efficient, powerful, and forms the foundation of modern operating systems, databases, and compilers. By learning C, you are not just memorizing syntax; you are learning how computers manage memory and execute instructions under the hood. Once you master C, learning any other language (like C++, Python, or Java) becomes significantly easier.
+C++ is often called the "language of languages." It is efficient, powerful, and forms the foundation of modern operating systems, databases, and compilers. By learning C, you are not just memorizing syntax; you are learning how computers manage memory and execute instructions under the hood. Once you master C, learning any other language (like C++, Python, or Java) becomes significantly easier.
 
 ### What Makes This Project Different?
 
