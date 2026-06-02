@@ -1,5 +1,3 @@
-
-```markdown
 # Learning C++ from Scratch
 
 ![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus)
@@ -80,6 +78,4 @@ Option 2: Manual Clean
 
 ```bash
 rm -rf build/
-```
-
 ```
